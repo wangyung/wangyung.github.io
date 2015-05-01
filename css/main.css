@@ -20,15 +20,19 @@
     background: transparent;
     color: white;
     min-height: 35px;
-
 }
 .btn-transparent:hover {
     color: #ED1C25;
 }
 
 .jumbotron {
+    background-image: url("../img/cover.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     padding: 20px 0;
     background-color: #ED1C25;
+    min-height: 20%;
+    max-height: 500px;
 }
 
 h1.title-description {
